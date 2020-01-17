@@ -1,6 +1,6 @@
 # MRI-Segmentation
 _Author: Antoine DELPLACE_  
-_Last update: 18/11/2019_
+_Last update: 17/01/2020_
 
 This repository corresponds to the source code used for the MRI segmentation part of my Master Thesis entitled "__Segmentation and Generation of Magnetic Resonance Images by Deep Neural Networks__".
 
@@ -28,4 +28,4 @@ The aim of the project is to achieve state-of-the-art performance in segmenting 
 The model demonstrates __state-of-the-art performance__ in segmenting bones and cartilages of knee MRIs. The hyperparameter tuning, the visual outputs and the qualitative results can be found in my Master thesis.
 
 ## References
-1. _Master Thesis_ (available soon)
+1. A. Delplace. "Segmentation and Generation of Magnetic Resonance Images by Deep Neural Networks", _Master thesis at the University of Queensland_, October 2019. [arXiv:2001.05447](https://arxiv.org/abs/2001.05447)
